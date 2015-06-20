@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\pre-dexed\debug\classes-9dec07dd76f6ee18d363cd7122a2d0241c67d632.jar" />
+    </item>
+    <item
+        jar="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\pre-dexed\debug\classes-122aa92213febceea2a3403e7d7d8332da4face4.jar" />
+    </item>
+    <item
+        jar="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\pre-dexed\debug\classes-628e1e681677f7912cf048b6b90f10e9ab9f2d03.jar" />
+    </item>
+    <item
+        jar="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\pre-dexed\debug\classes-d069aac12066487132d92db64d30a25544172aab.jar" />
+    </item>
+    <item
+        jar="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\pre-dexed\debug\classes-b59b110b4f8763e4e6f837c254024f9793c67b76.jar" />
+    </item>
+    <item
+        jar="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\pre-dexed\debug\classes-5b755f7ee38b7f7ea3b6cfa3b6c5d9455740a809.jar" />
+    </item>
+    <item
+        jar="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\pre-dexed\debug\classes-3e9442b769d9737fc1cc3fca54b18c8faaa7602a.jar" />
+    </item>
+    <item
+        jar="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\pre-dexed\debug\classes-b9956e4fe246558f4cb30fe867a15fcfb7c868a9.jar" />
+    </item>
+    <item
+        jar="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\pre-dexed\debug\classes-34f5cb54b2a6ddc1a793cdb91d30269e58f52467.jar" />
+    </item>
+    <item
+        jar="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\pre-dexed\debug\classes-62f6d49ac9f994ce079a4446a32cbb0a152b21b3.jar" />
+    </item>
+    <item
+        jar="D:\kuliah\semester 6\pemograman mobile\instalasi\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-0b7aa3fd82084c2574b3ecd50a816ed88652ac25.jar" />
+    </item>
+    <item
+        jar="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\pre-dexed\debug\classes-15f6912c39e8dfe9b367993d5ba9c715aafd51c7.jar" />
+    </item>
+    <item
+        jar="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\pre-dexed\debug\classes-7ab8c597ad40eb358278efeab60992ececb70f6e.jar" />
+    </item>
+    <item
+        jar="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\pre-dexed\debug\classes-919421d6b2d330c510a8ce28873ef87a578c9220.jar" />
+    </item>
+    <item
+        jar="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\pre-dexed\debug\classes-f78c0a2bc4a5159f1eeeb508b81e19d83963edd5.jar" />
+    </item>
+    <item
+        jar="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\pre-dexed\debug\classes-fe010441a62375aada17b18b8073c4fe4c67c1c0.jar" />
+    </item>
+    <item
+        jar="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\pre-dexed\debug\classes-1edcf3b6799c2ca2ce96755c70be4fb0a0470cde.jar" />
+    </item>
+    <item
+        jar="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\pre-dexed\debug\classes-3955ee62f5079a989f4ab949fd7a0f8f3be4348f.jar" />
+    </item>
+    <item
+        jar="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\pre-dexed\debug\classes-ea5be4aa7882fb8faf21b455395377e641d9b579.jar" />
+    </item>
+    <item
+        jar="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\pre-dexed\debug\classes-d87808051e8728c01a52f1a31d441a59fa48490d.jar" />
+    </item>
+    <item
+        jar="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\pre-dexed\debug\classes-b98589331aeaf94223a34876db38c8c1f628915d.jar" />
+    </item>
+    <item
+        jar="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\pre-dexed\debug\classes-21b8c76cffdf3c713b6d8520f4aa5f9c11b9c029.jar" />
+    </item>
+    <item
+        jar="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\kuliah\semester 6\pemograman mobile\TA\maps\peta2\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-4f87728580bb4397f418ce3565922bb896debe0d.jar" />
+    </item>
+
+</items>
